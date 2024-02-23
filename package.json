@@ -1,0 +1,24 @@
+{
+  "name": "untitled-project",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "files": [
+    "src/"
+  ],
+  "homepage": "https://julzerinos.github.io/untitled-project/",
+  "scripts": {
+    "dev": "vite",
+    "dev-network": "vite --host",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "4.6.3",
+    "vite": "^2.9.0"
+  },
+  "dependencies": {
+    "@babylonjs/core": "5.0.3",
+    "@babylonjs/loaders": "5.0.3"
+  }
+}
