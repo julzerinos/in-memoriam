@@ -1,6 +1,6 @@
 # In Memoriam
 
-This is a project dedicated to a dear childhood companion who has taught me the virtues of loyalty, friendship and compassion. Pabla, you will be missed.
+This is a project dedicated to a dear childhood companion who has taught me the virtues of loyalty, friendship and compassion. Love you doggo.
 
 ### About the project
 
