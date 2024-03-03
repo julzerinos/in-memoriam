@@ -12,6 +12,8 @@ The key tech which makes this possible (and especially helpful with handling aug
 
 The model was set up in Blender 4.0. For integration with `<model-viewer>` the model was exported to `glTF 2.0` and `usdz` to support Apple's iOS AR Quick Look. For future reference, remember to flatten the armature bone hierarchy when exporting to `glTF`.
 
+To workaround material limitiations in the export process, `glTF` material variants are used and programatically (in javascript) swapped between to create the texture eye/blinking animation. There is no equivalent in `usdz` files (so no eye animation for iOS Quick Look). 
+
 ### Credits
 
 - Modified version of Path Lord's [Augumented Reality](https://thenounproject.com/icon/augmented-reality-1741261/) icon from The Noun Project
