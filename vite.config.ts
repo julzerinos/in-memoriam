@@ -5,7 +5,7 @@ export default defineConfig({
     port: 3443,
     https: true,
   },
-  base: "/untitled-project/",
+  base: "/in-memoriam/",
   build: {
     assetsDir: "public",
   },
