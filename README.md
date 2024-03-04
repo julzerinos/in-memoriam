@@ -8,7 +8,7 @@ See the project [here](https://julzerinos.github.io/in-memoriam/).
 
 This is a simple `html` + `typescript` web page compiled with `vite`. 
 
-The key tech which makes this possible (and especially helpful with handling augmented reality) is Google's “ (check out the [overview](https://modelviewer.dev/), or the [Github repository](https://github.com/google/model-viewer)).
+The key tech which makes this possible (and especially helpful with handling augmented reality) is Google's `<model-viewer>` component (check out the [overview](https://modelviewer.dev/), or the [Github repository](https://github.com/google/model-viewer)).
 
 ### Technical set up
 
